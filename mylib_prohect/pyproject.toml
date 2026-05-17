@@ -1,9 +1,0 @@
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
-[project]
-name = "mylib"
-version = "0.0.1"
-description = "ไลบรารีส่วนตัวของฉัน"
-requires-python = ">=3.8"

@@ -1,7 +1,0 @@
-path: C:\Users\rujir\Documents\python\python-ai\maple-M-bot\venv\dataset
-train: dataset\train\images
-val: dataset\valid\images
-
-names:
- 0: quest_icon
- 1: mail_icon
